@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkAl4-1", "HomeWorkAl4\HomeWorkAl4-1.csproj", "{EAC6369A-4FDB-41FD-AD3B-3CF84BAB9384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkAl4-2", "HomeWorkAl4-2\HomeWorkAl4-2.csproj", "{B534F8F8-2390-4A91-8D75-7693265EC120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC6369A-4FDB-41FD-AD3B-3CF84BAB9384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC6369A-4FDB-41FD-AD3B-3CF84BAB9384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC6369A-4FDB-41FD-AD3B-3CF84BAB9384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC6369A-4FDB-41FD-AD3B-3CF84BAB9384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B534F8F8-2390-4A91-8D75-7693265EC120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B534F8F8-2390-4A91-8D75-7693265EC120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B534F8F8-2390-4A91-8D75-7693265EC120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B534F8F8-2390-4A91-8D75-7693265EC120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C173033E-B74B-47BC-8A2B-9C5ED940739D}
+	EndGlobalSection
+EndGlobal
